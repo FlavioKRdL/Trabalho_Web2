@@ -1,0 +1,21 @@
+body {
+    background-color: bisque;
+}
+
+#logo{height: 10vh; font-size: 8vh; padding: 0%}
+
+.header1{
+    height: 16vh; width: 100vw; border-bottom: 1px solid black; 
+    display:flex; justify-content: space-between; align-items: center;
+}
+
+.tohome{width: 5vw; margin-right: 20vw;}
+
+.logo{width: 10vw; margin-left: 20vw; margin-right: 20vw; text-align: center;}
+
+.userinfo{width: 20vw; margin-left: 10vw; display: flex; justify-content: space-evenly;}
+
+.post-box{margin: 5vh 5vw 5vh 5vw; border: solid 2px black; padding: 7px; width: auto; min-height:340px;}
+.post-titulo{margin-bottom:2px; border-bottom:solid 1px black; display:flex; justify-content: space-between;}
+.corpo-imagem{float:left;width:156px;height:256px; margin:0 7px 0 0;}
+.post-footer{margin-top:2px; text-align: right;}
